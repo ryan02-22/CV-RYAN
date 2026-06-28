@@ -1,0 +1,85 @@
+Backend Engineer with 7+ years of experience in
+designing and optimizing scalable systems. Skilled
+in API development, database management, and
+performance optimization.
+Bachelor of Information Technology
+Gunadarma University
+Graduated: September 2016
+Netflix–Indihome Integration kingichsan.co.id
+arlitapersada.id
+PROFILE
+SKILLS
+Backend: Golang, Ruby, Java, Python▸
+Monitoring: Grafana, Nomad, Sentry, Jenkins,
+Rancher, Prometheus
+▸
+Broker: Google Pub/Sub, RabbitMQ▸
+Dev Tools: Kubernetes, Bitbucket, GitHub, Git▸
+Web: HTML, CSS, jQuery, PHP, JavaScript▸
+Docs: RFC, Sequence Diagram, Flowcharts▸
+LANGUAGES
+Bahasa Indonesia (Native)●
+English (Professional)●
+EDUCATION
+PROFESSIONAL EXPERIENCE
+System Developer
+PT Syntech Mitra Integrasi
+Nov 2025 – Present
+Built and maintained a web-based healthcare platform✓
+Optimized system performance and reliability✓
+Developed and integrated APIs✓
+Performed testing, debugging, and code reviews✓
+Worked with stakeholders and clients✓
+Full-stack Developer (Freelance)
+Arlita Persada Indonesia
+Aug 2025 – Oct 2025
+Developed mobile app for RFID reader integrated with Odoo ERP✓
+Built web-based Event Organizer system✓
+Implemented front-end and back-end features✓
+Integrated APIs between systems✓
+Mid Backend Engineer
+PT Multidaya Teknologi Nusantara (eFishery)
+Nov 2022 – Feb 2025
+Improved approval engine for loan system✓
+Created flexible approval workflow✓
+Integrated BI checking feature✓
+Migrated apps from AWS to GCP✓
+Reduced operational costs✓
+Back End Developer (Freelance)
+Metranet
+Feb 2022 – Feb 2023
+Supported Netflix–Indihome API integration✓
+Built backend using Spring Boot & MySQL✓
+Ensured seamless API communication✓
+Backend Engineer
+Bluebird Group
+Oct 2021 – Dec 2022
+Rewrote B2B dashboard from Ruby to Golang✓
+Designed promotional features✓
+Built analytics for promo tracking✓
+Backend Engineer
+ChatAja
+Oct 2020 – Oct 2021
+Maintained messenger backend✓
+Migrated monolith to microservices✓
+Created chatbot and scheduler✓
+Tutor (Mobile Programming)
+BLK Bekasi (Cevest)
+Jul 2019 – Sep 2020
+Taught mobile programming✓
+Prepared learning materials✓
+Backend Engineer
+PT Mediatrac Sistem Komunikasi (HARA)
+Apr 2018 – Feb 2019
+Maintained backend apps✓
+Developed client web pages✓
+Laboratory Assistant
+Gunadarma University
+2016 – 2017
+Taught data structures and programming✓
+PROJECTS
+M Alim ArrasyidM Alim Arrasyid
+B a c k e n d  E n g in e e r
+📱  0 8 5 2  2 6 8 9  7 6 7 8
+📧  m .a lim a r ra s y id @ g m a il.c o m
+📍  B e k a s i, In d o n e s ia
